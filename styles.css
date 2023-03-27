@@ -1,0 +1,14 @@
+
+.title-page-background {
+    background-color: darkgreen;
+}
+
+.title-img {
+    width: 500px;
+    height: auto;
+}
+
+.title-text {
+    color: red;
+    text-align: center;
+}
