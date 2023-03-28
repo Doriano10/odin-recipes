@@ -4,11 +4,22 @@
 }
 
 .title-img {
-    width: 500px;
-    height: auto;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .title-text {
     color: red;
     text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.menu-list {
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    list-style: inside;
 }
