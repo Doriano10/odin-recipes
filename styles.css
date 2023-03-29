@@ -13,6 +13,7 @@
 .title-text {
     color: red;
     text-align: center;
+    font-family: 'Wild Mexico', sans-serif;
     font-size: 3em;
     font-weight: bold;
 }
@@ -22,4 +23,15 @@
     color: white;
     font-size: 2em;
     list-style: inside;
+}
+
+.list-center {
+    display: inline-block;
+    text-align: left;
+}
+
+.list-item {
+    text-decoration: none;
+    color: white;
+    font-style: oblique;
 }
