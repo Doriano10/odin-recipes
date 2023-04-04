@@ -46,3 +46,9 @@
     color: green;
     font-style: oblique;
 }
+
+.steps {
+    font-weight: bolder;
+    font-size: 1.2rem;
+    font-style: italic;
+}
